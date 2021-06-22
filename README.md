@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dorisnorris
 - 👀 I’m interested in contributing towards the greater good.
-- 🌱 I’m currently learning how to create databases and interfaces that allow accessability to those databases.
+- 🌱 I’m currently learning lots of neat things.
 
 <!---
 dorisnorris/dorisnorris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
